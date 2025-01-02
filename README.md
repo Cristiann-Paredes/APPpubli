@@ -23,7 +23,20 @@
 ![{E32BA82C-6D70-4929-B99F-7A535B684AB7}](https://github.com/user-attachments/assets/514b38ab-4900-40be-b492-f3f1d65e71e6)
 
 
+## Preparar la aplicación (APK)
 
+Formato del archivo
+![{A11B5FAF-1068-4FAA-9FF6-D679C09D8D4A}](https://github.com/user-attachments/assets/39789f07-1423-4195-b34c-7c402bf7030b)
+
+## Subir la aplicación a la tienda
+
+![{D9B4E1C8-861F-4092-AB9A-B5E8CC9D8509}](https://github.com/user-attachments/assets/005ea5a4-09e0-4b3f-8749-f0eac8283c7c)
+![{417293C6-5AF7-4226-A52D-0673C447EA9F}](https://github.com/user-attachments/assets/fcbaec53-d461-4456-9770-8efc8b5ee772)
+![{DB4F0FC7-ED80-4695-9448-0CB4676A9B52}](https://github.com/user-attachments/assets/ea4548b7-164c-4e70-a23c-52e30df1f68f)
+![{919A3E15-35D0-41A9-B535-2812DE8B74CE}](https://github.com/user-attachments/assets/f35e65e4-fe77-425f-a7af-7dace9c980b2)
+![{E463AA28-4D60-4F40-AD27-B8091F6A667D}](https://github.com/user-attachments/assets/efadf956-04ad-42f5-9cea-4499d47d5251)
+![{94747B30-717B-4F44-B58F-A743A5CC248B}](https://github.com/user-attachments/assets/790b4236-c242-45a2-825f-918b8a5a6e58)
+![{B64ACCDB-0624-4F0A-9C6B-EB50C6AA3D42}](https://github.com/user-attachments/assets/de691cca-0a2d-40ec-abf1-c737b7c67768)
 
 
 
