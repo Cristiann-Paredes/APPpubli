@@ -36,7 +36,8 @@ Formato del archivo
 ![{919A3E15-35D0-41A9-B535-2812DE8B74CE}](https://github.com/user-attachments/assets/f35e65e4-fe77-425f-a7af-7dace9c980b2)
 ![{E463AA28-4D60-4F40-AD27-B8091F6A667D}](https://github.com/user-attachments/assets/efadf956-04ad-42f5-9cea-4499d47d5251)
 ![{94747B30-717B-4F44-B58F-A743A5CC248B}](https://github.com/user-attachments/assets/790b4236-c242-45a2-825f-918b8a5a6e58)
-![{B64ACCDB-0624-4F0A-9C6B-EB50C6AA3D42}](https://github.com/user-attachments/assets/de691cca-0a2d-40ec-abf1-c737b7c67768)
+![{8835DBB1-C6F4-45ED-AEC2-E7E08758FD08}](https://github.com/user-attachments/assets/4f7b3f7e-11ab-4b1d-ba40-e74900e3af26)
+
 
 
 
